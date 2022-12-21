@@ -24,3 +24,7 @@ To run the analysis, first run the cells of the `combinedStat.ipynb` notebook in
 - `trackAmt` is the "budget" you have for building track
 - `penaltyAmt` is the amount you assign as a penalty in track miles to decrease your track "budget" for each new route you add 
 - `perCity` is the maximum number of train routes that any given city can have
+
+## `.csv` files
+- `combStat.csv` contains the latitude, longitude and Census population data of every combined statistical area in the united states
+	- this is used in `combinedStat.ipynb` to generate the other csv's used in the `optimize.py` program
