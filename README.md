@@ -5,7 +5,8 @@ A linear program implemented with Gurobi to solve for the optimal city pairs for
 
 - Python
 - Jupyter notebooks
-- the Gurobi Python package
+- the Gurobi Python package 
+	- installed with `python -m pip install gurobipy`
 
 ## Instructions
 

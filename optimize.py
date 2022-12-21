@@ -80,4 +80,4 @@ printDf = printDf.sort_values(by="Travel Demand", ascending=False)
 
 print(printDf)
 
-print(printDf.to_latex(index=False))
+# print(printDf.to_latex(index=False))
