@@ -2,7 +2,7 @@
 
 A final project made by Ellie Jensen and Niels Vanderloo for Bob Bosch's MATH 331 (Linear Optimization) in Fall 2022.
 
-A linear program implemented with Gurobi to solve for the optimal city pairs for high speed rail in the United States. See included PDF of paper describing the model we implement.
+A linear program implemented with Gurobi to solve for the optimal city pairs for high speed rail in the United States. See included PDF of the paper `optimizing_trains.pdf` describing the model we implement.
 
 ## Prerequisites
 
